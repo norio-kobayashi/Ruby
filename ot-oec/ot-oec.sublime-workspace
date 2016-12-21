@@ -1,0 +1,1493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"d",
+				"dgrey"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"cure",
+				"current_user"
+			],
+			[
+				"fin",
+				"find_by"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"l",
+				"lgrey"
+			],
+			[
+				"col",
+				"col-xs-6"
+			],
+			[
+				"current_",
+				"current_program"
+			],
+			[
+				"excuted",
+				"executed_at"
+			],
+			[
+				"challenge",
+				"challenge_frames"
+			],
+			[
+				"app",
+				"approve"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"Conten",
+				"ContentGroupItem"
+			],
+			[
+				"user",
+				"user_programs"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"Content",
+				"ContentGroup"
+			],
+			[
+				"content",
+				"content_group"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/assets/stylesheets/general.scss",
+			"settings":
+			{
+				"buffer_size": 4078,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/bootstrap_overrides.scss",
+			"settings":
+			{
+				"buffer_size": 1053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/dashboard.scss",
+			"settings":
+			{
+				"buffer_size": 2399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/comments.scss",
+			"settings":
+			{
+				"buffer_size": 1523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/user.scss",
+			"settings":
+			{
+				"buffer_size": 2162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/mixins.scss",
+			"settings":
+			{
+				"buffer_size": 5652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/show.slim",
+			"settings":
+			{
+				"buffer_size": 3249,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: + Shortcut to Include"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"copypa",
+				"File: Copy Path From Project"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"cop",
+				"File: Copy Path From Project"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"copyp",
+				"File: Copy Path From Project"
+			],
+			[
+				"coppy",
+				"File: Copy Path From Project"
+			],
+			[
+				"coppyp",
+				"File: Copy Path From Project"
+			],
+			[
+				"coppa",
+				"File: Copy Path From Project"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"copyna",
+				"File: Copy Name"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"coppya",
+				"File: Copy Path From Project"
+			],
+			[
+				"terminal",
+				"Open Terminal for File"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"convertto",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"copp",
+				"File: Copy Path"
+			],
+			[
+				"convertta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"converttota",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"insert",
+				"Insert Date Time"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"view.run_command('save')",
+			"view.run_command('indentation_convert_to_tabs')",
+			"view",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/bootstrap_overrides.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/index.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_activity.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_newsfeed.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/dashboard.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_post.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/comments/_commentfeed.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/comments/_comment.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/comments.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_posts.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_ticker.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/posts/search.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_search_result.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/users/index.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/course_content.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/admin.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/user.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/mixins.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/javascripts/dashboard.js.coffee",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/application.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/admin/index.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/colors.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/admin/thegrid.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_activity_items.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/experiences.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/normalize.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/_experience_frame.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/devise/confirmations/new.html.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/devise/passwords/edit.html.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/devise/passwords/new.html.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/devise/registrations/edit.html.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/devise/registrations/new.html.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/devise/sessions/new.html.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/devise/unlocks/new.html.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/experiences/_experience.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/commented_on_your_challenge.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/commented_on_your_experience.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/commented_on_your_post.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/commented_on_your_profile.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/created_new_blog.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/created_new_challenge.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/created_new_event.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/created_new_experience.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/user_mailer/safeword_red.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/users/show.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/admin/type_forms/missing_intakes.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/admin/users/new.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/calendar/_calendar.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/calendar/_event_calendar.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/challenge_frames/show.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/challenges/_challenges.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/layouts/application.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/layouts/_footer.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/layouts/_messages.html.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/layouts/_header.slim",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/javascripts/application.js",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/layouts/_navigation.slim",
+		"/Users/cristi/Downloads/foundation-5.2.2.custom/index.html",
+		"/private/var/folders/_5/pm8mhghx6knbm34t2_9m72q00000gn/T/e0c59d92-40a2-4031-a4b9-28122c74411f/sagagrains.com/index.html",
+		"/Users/cristi/Downloads/foundation-5.2.2.custom/css/foundation.css",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/general.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/forms.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets/variables.scss",
+		"/Volumes/WORK/Online Education Center/Rails App/app/views/dashboard/index.js.erb",
+		"/Volumes/WORK/Online Education Center/Rails App/cp8.sublime-project",
+		"/Users/cristi/.bash_profile",
+		"/Users/cristi/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Volumes/DATA/Work/ot-oec/app/views/dashboard/index.html.slim",
+		"/Volumes/DATA/Work/ot-oec/app/views/dashboard/index.js.erb",
+		"/Volumes/DATA/Work/ot-oec/app/views/dashboard/support.html.slim",
+		"/Volumes/DATA/Work/ot-oec/app/views/dashboard/terms.html.slim",
+		"/Volumes/DATA/Work/ot-oec/app/views/dashboard/_activity.slim",
+		"/Volumes/DATA/Work/ot-oec/app/assets/stylesheets/colors.scss",
+		"/Volumes/DATA/Work/ot-oec/app/views/layouts/_navigation.slim",
+		"/Volumes/DATA/Work/ot-oec/app/views/users/index.html.slim",
+		"/Volumes/DATA/Work/ot-oec/app/views/layouts/application.slim",
+		"/Volumes/DATA/Work/ot-oec/app/assets/stylesheets/user.scss",
+		"/Volumes/DATA/Work/ot-oec/app/assets/stylesheets/content_groups.scss",
+		"/Volumes/DATA/Work/ot-oec/app/views/user_mailer/safeword_red.html.slim"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/WORK/Online Education Center/Rails App/app/",
+			"/Volumes/WORK/Online Education Center/Rails App/app/views",
+			"/Volumes/WORK/Online Education Center/Rails App/app/",
+			"/Volumes/WORK/Online Education Center/Rails App/app/views",
+			"/Volumes/WORK/Online Education Center/Rails App/app/",
+			"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets",
+			"/Volumes/WORK/Online Education Center/Rails App/app/views",
+			"/Volumes/WORK/Online Education Center/Rails App/app/assets/stylesheets",
+			"/Volumes/WORK/Online Education Center/Rails App/app/assets/",
+			"/Volumes/WORK/Online Education Center/Rails App/app",
+			"",
+			"/Volumes/DATA/Work/ot-oec/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tabs",
+			"section",
+			".profile",
+			"profile",
+			"img_comment",
+			"hsep",
+			"ticker",
+			"what are you doing",
+			"hr {",
+			"search",
+			"member",
+			"Course Content",
+			".col-md-6",
+			".members",
+			"members",
+			"md",
+			"hsep(",
+			"img_ctn",
+			"assignment",
+			".section",
+			"post.section",
+			".assignments",
+			"h2",
+			".assignments",
+			"screen-xs",
+			".section",
+			".close",
+			".alert-danger",
+			"alert",
+			"weight",
+			"font-weight: 500;",
+			"font-weight",
+			"bold",
+			"font-weight",
+			".ticker",
+			".challenge",
+			".section",
+			"#header",
+			"topnav",
+			"!important",
+			"font-weight:",
+			"h2",
+			"image_tag",
+			"members",
+			"members section",
+			"\"",
+			"pizza-elem",
+			"pizza-item",
+			"respose",
+			"JSON.",
+			"hamza",
+			".joins",
+			"user_program",
+			"model",
+			"br",
+			"submit",
+			"boxee",
+			"nav-tabs-",
+			"//*",
+			"@",
+			"single-tr",
+			"#fff",
+			"chl_title",
+			".texture",
+			"col-md",
+			"\"",
+			"<",
+			" />",
+			"\"",
+			"-module;",
+			"color",
+			"5495ce",
+			"color",
+			"2a6496",
+			"color:",
+			"a {",
+			"color",
+			"right_column",
+			"right_column ticker",
+			"ticker",
+			"three_column_width",
+			"assignments",
+			".active",
+			"header",
+			"shadow2",
+			".active",
+			".status",
+			".status ",
+			".status",
+			"UserMail",
+			"h2",
+			"JSON.",
+			"UserMail",
+			"UserMai",
+			"ActionMai",
+			".includes",
+			"executed_at",
+			"executed_at\n",
+			"executed_by_id",
+			"			- @todo_experiences.each do |exp|\n				.experience\n					.name = link_to(exp.name, exp)\n					.desciprion = truncate(exp.description)\n			- @todo_challenges.each do |ch|\n				.assignment\n					.img_ctn\n						a = link_to(image_tag(ch.cover.thumb.url), ch)\n					.assign_name\n						h3 = link_to ch.name, ch\n						.timeago = \"due in %s\" % distance_of_time_in_words(Time.now, ch.due)\n						.clearfix",
+			"to_formatted_s",
+			".to_",
+			"include_slow_s",
+			"include_sloo",
+			":user_programs",
+			":created_for",
+			".group",
+			"group",
+			"noah",
+			"Commentable",
+			"commentable_type",
+			"drop_table",
+			"remove_table",
+			".cover",
+			"link_to",
+			".frames",
+			"link_",
+			"button",
+			"sgl_member",
+			".members",
+			"body.members",
+			"members",
+			"content_group",
+			"<<<<<<<",
+			"timeago",
+			"html_safe",
+			"user_challe",
+			"backgou"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h3",
+			"700",
+			".members",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/assets/stylesheets/general.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/bootstrap_overrides.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/stylesheets/dashboard.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2241,
+								2241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/stylesheets/comments.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/stylesheets/user.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1772,
+								1772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/stylesheets/mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1909,
+								1909
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 136.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/users/show.slim",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3249,
+								3249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby Slim/Syntaxes/Ruby Slim.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 922.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ot-oec.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"typefocon",
+				"app/controllers/admin/type_forms_controller.rb"
+			],
+			[
+				"associa",
+				"app/views/admin/type_forms/associate.slim"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"typforcon",
+				"app/controllers/admin/type_forms_controller.rb"
+			],
+			[
+				"assi",
+				"app/views/admin/type_forms/associate.slim"
+			],
+			[
+				"dashin",
+				"app/views/dashboard/index.html.slim"
+			],
+			[
+				"avat",
+				"app/uploaders/avatar_uploader.rb"
+			],
+			[
+				"userindex",
+				"app/views/users/index.html.slim"
+			],
+			[
+				"chaleshow",
+				"app/views/challenge_frames/show.html.slim"
+			],
+			[
+				"experisho",
+				"app/views/experiences/show.html.slim"
+			],
+			[
+				"userinde",
+				"app/views/users/index.html.slim"
+			],
+			[
+				"userprof",
+				"db/migrate/20140426121312_rename_user_program_on_type_forms.rb"
+			],
+			[
+				"_acti",
+				"app/views/dashboard/_activity.slim"
+			],
+			[
+				"challescss",
+				"app/assets/stylesheets/admin/challenges.scss"
+			],
+			[
+				"typfor",
+				"app/models/type_form.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"typefor",
+				"app/controllers/admin/typeforms_controller.rb"
+			],
+			[
+				"adminindex",
+				"app/views/admin/index.html.slim"
+			],
+			[
+				"ntoes",
+				"notes.txt"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"usershow",
+				"app/views/users/show.html.slim"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"usercont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"typeforhelp",
+				"lib/typeform_helper.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"typeh",
+				"lib/typeform_helper.rb"
+			],
+			[
+				"notes",
+				"notes.txt"
+			],
+			[
+				"typo",
+				"lib/typeform_helper.rb"
+			],
+			[
+				"in",
+				"db/seed/intake.json"
+			],
+			[
+				"usercontr",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"typeform",
+				"app/models/type_form.rb"
+			],
+			[
+				"int",
+				"db/seed/intake.json"
+			],
+			[
+				"note",
+				"notes.txt"
+			],
+			[
+				"changeuse",
+				"db/migrate/20140427121437_change_user_program_to_type_forms.rb"
+			],
+			[
+				"typefo",
+				"lib/typeform_helper.rb"
+			],
+			[
+				"responseid",
+				"db/migrate/20140427114155_add_response_id_to_type_forms.rb"
+			],
+			[
+				"userprog",
+				"app/models/user_program.rb"
+			],
+			[
+				"typeformhe",
+				"lib/typeform_helper.rb"
+			],
+			[
+				"typeforhe",
+				"lib/typeform_helper.rb"
+			],
+			[
+				"admin",
+				"app/controllers/admin_controller.rb"
+			],
+			[
+				"intake",
+				"intake.json"
+			],
+			[
+				"index",
+				"app/views/admin/index.html.slim"
+			],
+			[
+				"renameuse",
+				"db/migrate/20140426121312_rename_user_program_on_type_forms.rb"
+			],
+			[
+				"userpro",
+				"app/models/user_program.rb"
+			],
+			[
+				"omhub",
+				"lib/omhub.rb"
+			],
+			[
+				"challe",
+				"app/models/challenge.rb"
+			],
+			[
+				"addfor",
+				"db/migrate/20140426115720_add_form_to_type_forms.rb"
+			],
+			[
+				"createtypefo",
+				"db/migrate/20140426114442_create_type_forms.rb"
+			],
+			[
+				"inta",
+				"intake.json"
+			],
+			[
+				"addhu",
+				"db/migrate/20140423172755_add_hub_to_users.rb"
+			],
+			[
+				"_act",
+				"app/views/dashboard/_activity.slim"
+			],
+			[
+				"message",
+				"app/views/layouts/_messages.html.slim"
+			],
+			[
+				"noah",
+				"app/assets/stylesheets/template_overrides_noah.css.scss"
+			],
+			[
+				"usecon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_ac",
+				"app/views/dashboard/_activity_items.slim"
+			],
+			[
+				"applcaitiocon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"_navi",
+				"app/views/layouts/_navigation.slim"
+			],
+			[
+				"_nav",
+				"app/views/layouts/_navigation.slim"
+			],
+			[
+				"punch",
+				"note_punchlist.txt"
+			],
+			[
+				"expecon",
+				"app/controllers/experiences_controller.rb"
+			],
+			[
+				"punchl",
+				"note_punchlist.txt"
+			],
+			[
+				"userconrol",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"applicatiocon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicatiohelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"applicathelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"expershow",
+				"app/views/experiences/show.html.slim"
+			],
+			[
+				"experi",
+				"app/models/experience.rb"
+			],
+			[
+				"exper",
+				"app/controllers/experiences_controller.rb"
+			],
+			[
+				"expercon",
+				"app/controllers/experiences_controller.rb"
+			],
+			[
+				"activi",
+				"app/views/dashboard/_activity.slim"
+			],
+			[
+				"challeframsho",
+				"app/views/challenge_frames/show.html.slim"
+			],
+			[
+				"expersho",
+				"app/views/experiences/show.html.slim"
+			],
+			[
+				"chalgeframcon",
+				"app/controllers/challenge_frames_controller.rb"
+			],
+			[
+				"challcon",
+				"app/controllers/challenges_controller.rb"
+			],
+			[
+				"addexec",
+				"db/migrate/20140423063249_add_executed_to_experience.rb"
+			],
+			[
+				"exprecon",
+				"app/controllers/experiences_controller.rb"
+			],
+			[
+				"applicatiohe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"challenfra",
+				"app/models/challenge_frame.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"challframcon",
+				"app/controllers/challenge_frames_controller.rb"
+			],
+			[
+				"challframesho",
+				"app/views/challenge_frames/show.html.slim"
+			],
+			[
+				"challengefrrc",
+				"app/controllers/challenge_frames_controller.rb"
+			],
+			[
+				"challengefr",
+				"app/models/challenge_frame.rb"
+			],
+			[
+				"addagain",
+				"db/migrate/20140423040116_add_again_to_challenge_frames.rb"
+			],
+			[
+				"challengefra",
+				"app/models/challenge_frame.rb"
+			],
+			[
+				"challengefraslim",
+				"app/views/challenge_frames/show.html.slim"
+			],
+			[
+				"challenshow",
+				"app/views/challenges/show.html.slim"
+			],
+			[
+				"challengcon",
+				"app/controllers/challenges_controller.rb"
+			],
+			[
+				"dashinde",
+				"app/views/dashboard/index.html.slim"
+			],
+			[
+				"challengeframshow",
+				"app/views/challenge_frames/show.html.slim"
+			],
+			[
+				"challengeshow",
+				"app/views/challenge_frames/show.html.slim"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.slim"
+			],
+			[
+				"userprogr",
+				"app/models/user_program.rb"
+			],
+			[
+				"profi",
+				"other/mockups/marcquinn.net/cp8_game/profile.html"
+			],
+			[
+				"applisl",
+				"app/views/layouts/application.slim"
+			],
+			[
+				"",
+				"db/seeds.rb"
+			],
+			[
+				"applicaio",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicaiotcon",
+				"app/views/devise/mailer/confirmation_instructions.html.slim"
+			],
+			[
+				"not",
+				"notes.txt"
+			],
+			[
+				"content",
+				"app/models/content.rb"
+			],
+			[
+				"contengroupi",
+				"app/models/content_group_item.rb"
+			],
+			[
+				"exp",
+				"app/models/experience.rb"
+			],
+			[
+				"applc",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"addframeto",
+				"db/migrate/20140422225320_add_frame_to_experiences.rb"
+			],
+			[
+				"_activ",
+				"app/views/dashboard/_activity.slim"
+			],
+			[
+				"dashbo",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"applicationhel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"dashbcon",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"abstrac",
+				"lib/abstract_base_model.rb"
+			],
+			[
+				"exeri",
+				"app/models/experience.rb"
+			],
+			[
+				"executed",
+				"db/migrate/20140422221621_add_executed_at_to_experiences.rb"
+			],
+			[
+				"_",
+				"app/views/layouts/_comingup.slim"
+			],
+			[
+				"members",
+				"other/mockups/marcquinn.net/cp8_game/members.html"
+			],
+			[
+				"expsho",
+				"app/views/experiences/show.html.slim"
+			],
+			[
+				"avad",
+				"app/uploaders/avatar_uploader.rb"
+			],
+			[
+				"challeshow",
+				"app/views/challenges/show.html.slim"
+			],
+			[
+				"_post",
+				"app/views/dashboard/_post.slim"
+			],
+			[
+				"templa",
+				"app/assets/stylesheets/template_overrides.css.scss"
+			],
+			[
+				"date",
+				"lib/ext/datetime.rb"
+			],
+			[
+				"config",
+				"config/application.rb"
+			],
+			[
+				"datetime",
+				"lib/ext/datetime.rb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.slim"
+			],
+			[
+				"applicationhelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"dasho",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"expericon",
+				"app/controllers/experiences_controller.rb"
+			],
+			[
+				"experienceshow",
+				"app/views/experiences/show.html.slim"
+			],
+			[
+				"expshow",
+				"app/views/experiences/show.html.slim"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/WORK/Birbl/app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"addev",
+				"AddDeviseToUsers"
+			],
+			[
+				"challe",
+				"Challenge"
+			],
+			[
+				"even",
+				"Event"
+			]
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
